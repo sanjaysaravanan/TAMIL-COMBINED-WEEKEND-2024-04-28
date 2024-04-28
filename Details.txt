@@ -1,0 +1,64 @@
+
+Topics:
+
+  1. redux middleware and persistent ( preloadedState ) in storage
+
+    storage:
+      local storage
+      session storage
+
+  2. Advanced:
+
+    Optimization Techniques to Improve the performance
+
+      memo:
+
+      useCallback:
+        to avoid un-necessary re-renders/rendering
+
+      useMemo:
+        https://react.dev/reference/react/useMemo
+    
+      lazy and suspense
+
+  3. CSS Animations
+
+  A simple app creation using Mock APIs
+    Student Management Application
+
+      1. pop up form
+      2. simple success/failure alerts
+
+  4. Recap:
+
+      Rendering & Re-Rendering
+
+      Props & state:
+
+        passing a JSX as props
+
+        inner child rendering
+
+      useState, 
+      useEffect, 
+      useRef, 
+      useReducer, 
+      context
+
+      Router:
+        link
+        useParams
+        useSearchParams
+        navigation
+        location
+
+      CRUD APIs
+        axios & fetch
+
+
+
+
+
+  
+
+  
